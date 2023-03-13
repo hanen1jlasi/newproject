@@ -1,0 +1,30 @@
+{
+  "client": [
+    {
+      "id": 1,
+      "fullname": "hanen",
+      "lastname": "jlassi",
+      "age": "26",
+      "phone": "23456789",
+      "mail": "hanenjlassi@gmail.com"
+    },
+    {
+      "fullname": "hanen",
+      "lastname": "jlassi",
+      "age": "45",
+      "id": 2
+    },
+    {
+      "fullname": "hanenbn,;:",
+      "lastname": "bn,;:",
+      "age": "n,;:",
+      "id": 3
+    },
+    {
+      "fullname": "    cvbn,;",
+      "lastname": "",
+      "age": "",
+      "id": 4
+    }
+  ]
+}
